@@ -1,0 +1,22 @@
+{
+  "name": "testSMTPServer",
+  "version": "0.0.1",
+  "description": "Simple test SMTP server that catches all mails and outputs to text files",
+  "main": "index.js",
+  "dependencies": {
+    "simplesmtp": "^0.3.35"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.wdf.sap.corp/i311181/testSMTPServer.git"
+  },
+  "keywords": [
+    "SMTPServer"
+  ],
+  "author": "i311181 - John Maguire",
+  "license": "none"
+}
